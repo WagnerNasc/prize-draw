@@ -13,7 +13,7 @@ This project aims to provide a prize draw of numbers, using labeled functions.
 2. Run command to build the application:
 
      ```shell
-     npm build
+     npm run build
      ```
 
 3. Run command to start the application:
